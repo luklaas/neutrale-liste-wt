@@ -1,5 +1,5 @@
-:HL["/neutrale-liste-wt/_next/static/chunks/0tdrrfe1.7cc~.css","style"]
+:HL["/neutrale-liste-wt/_next/static/chunks/0-w5gm_xzu9lf.css","style"]
 :HL["/neutrale-liste-wt/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/neutrale-liste-wt/images/logo-nl.png","image"]
 :HL["/neutrale-liste-wt/images/harald-langfeld-white.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gemeinderat","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"harald-langfeld","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QiHE7BkJWKvn4sNyhAp5X"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gemeinderat","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"harald-langfeld","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LAiKI4vTi9tokXyb67N3W"}
