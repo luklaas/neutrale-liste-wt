@@ -1,0 +1,5 @@
+:HL["/neutrale-liste-wt/_next/static/chunks/0tdrrfe1.7cc~.css","style"]
+:HL["/neutrale-liste-wt/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/neutrale-liste-wt/images/logo-nl.png","image"]
+:HL["/neutrale-liste-wt/images/anette-klaas-white.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"themen","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"chancengleichheit","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QiHE7BkJWKvn4sNyhAp5X"}
